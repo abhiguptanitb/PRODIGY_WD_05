@@ -1,5 +1,9 @@
 # About
-I've developed a weather app (Task-05) as part of my internship, and I can't wait to share the details with you all! The app fetches weather data from a reliable weather API, allowing users to get the current weather conditions based on their location or any user-inputted location. 
+
+🔢 Project : Build a Weather App
+📌 Task No. : 05
+
+I've developed a weather app as part of my internship, and I can't wait to share the details with you all! The app fetches weather data from a reliable weather API, allowing users to get the current weather conditions based on their location or any user-inputted location. 
 
 # Features
 
